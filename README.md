@@ -41,7 +41,3 @@ Operation 10: Create a 3x2 array with random values from a uniform distribution.
 Operation: np.random.random((3, 2)) generates a 2D array with random float numbers between 0 and 1.
 Output: A 3x2 array with random values.
 
-Summary:
-The script focuses on generating and manipulating NumPy arrays in various shapes, sizes, and data types.
-It involves common operations such as reshaping, slicing, finding mean, minimum, and maximum values, and working with random values.
-This exploration emphasizes basic and intermediate array manipulation techniques used in data analysis, particularly in scientific computing.
